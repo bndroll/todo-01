@@ -1,3 +1,14 @@
+## React Todo-01
+
+Simple Todo application
+
+### Technologes Stack
+
+-   HTML5
+-   CSS3, SCSS
+-   JavaScript, React (react-router-dom, axios, classnames)
+-   JSON server
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
